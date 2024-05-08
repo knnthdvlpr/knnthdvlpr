@@ -2,7 +2,7 @@ Hi Good day!
 I'm Kenneth, I am an aspiring software engineer
 
 I deploy my beta-portfolio since it is still under developing stage.
-Step by step I am trying to learn the frontend development and in the long run seeing myself to be a Full Stack Developer.
+Step by step I am learning different programming language that can serves as my fundamental knowledge in the long run.
 
 You can do chat or message me through my email for your suggestions and feedback.
 
